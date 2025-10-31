@@ -1,10 +1,9 @@
-import HomePage from "./Components/HomePage/HomePage"
-import RegForm from "./Components/HomePage/RegForm"
+import HomePage from "./Components/HomePage"
 function App() {
  return (
     <>
       <HomePage/>
-      <RegForm/>
+      
     </>
   )
 }
